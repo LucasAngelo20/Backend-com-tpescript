@@ -1,4 +1,4 @@
-import User from "./User";
+import User from "../../users/entities/User";
 
 import {
   Entity,
